@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Student
+comment1.params=maths\ sci\ hin\ geo\ eng\ avg
+comment1.target=void\ allotment(double,\ double,\ double,\ double,\ double,\ double)
+numComments=2

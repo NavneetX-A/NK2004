@@ -1,0 +1,17 @@
+public class Employee
+{
+    String employee_name;float employee_salary,HRA,total_salary;
+    void init(String name,float salary)
+    {
+        employee_name=name;
+        employee_salary=salary;
+    }
+    void calc()
+    {
+        HRA=50*employee_salary/100;
+        total_salary=employee_salary + HRA;
+    }
+    void display()
+    {
+        System.out.println("The total salary including 
+        
