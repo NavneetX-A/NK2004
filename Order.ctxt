@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Order
+comment1.params=n1\ n2\ n3
+comment1.target=Order(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ Sort()
+numComments=3
