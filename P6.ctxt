@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=P6
+comment1.params=name\ percent
+comment1.target=void\ displaygrade(java.lang.String,\ double)
+numComments=2

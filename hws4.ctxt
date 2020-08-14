@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=hws4
+comment1.params=
+comment1.target=void\ input()
+comment2.params=f
+comment2.target=int\ compute1(int)
+comment3.params=m
+comment3.target=int\ compute2(int)
+comment4.params=
+comment4.target=void\ finalcompute()
+comment5.params=
+comment5.target=void\ main()
+numComments=6
