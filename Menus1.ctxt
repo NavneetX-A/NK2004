@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Menus1
+comment1.params=
+comment1.target=void\ generateMenu()
+comment2.params=m
+comment2.target=int\ fact(int)
+comment3.params=
+comment3.target=void\ s1()
+comment4.params=
+comment4.target=void\ s2()
+comment5.params=
+comment5.target=void\ main()
+numComments=6

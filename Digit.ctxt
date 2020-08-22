@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Digit
+comment1.params=
+comment1.target=void\ input()
+comment2.params=
+comment2.target=void\ Largest()
+comment3.params=
+comment3.target=void\ Smallest()
+comment4.params=
+comment4.target=void\ main()
+numComments=5
